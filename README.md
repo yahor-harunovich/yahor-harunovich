@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+I'm software engineer from Minsk.
 
+## Expertise
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <!--
 **Titanolodon/Titanolodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
